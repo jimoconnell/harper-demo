@@ -1,0 +1,11 @@
+POST http://localhost:3000/add
+Content-Type: application/json
+
+{
+  "id": "task2",
+  "title": "Try HarperDB insert",
+  "completed": false
+}
+
+###
+GET http://localhost:3000/tasks
