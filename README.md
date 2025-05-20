@@ -5,7 +5,7 @@ A simple Node.js app that connects to a local HarperDB instance. It provides two
 - `POST /add`: Inserts a task into the `harper_demo.tasks` table
 - `GET /list`: Lists all tasks from the table
 
-This project is part of an exploratory blog post. See the write-up here: 
+This project is part of an exploratory blog post. See the write-up here: https://mmdc.net/harperdb-first-impressions/
 
 ## Setup
 
