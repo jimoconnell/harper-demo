@@ -9,3 +9,6 @@ Content-Type: application/json
 
 ###
 GET http://localhost:3000/list
+
+###
+get http://localhost:9926/api/tasks/stats

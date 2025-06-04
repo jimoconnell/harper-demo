@@ -30,7 +30,6 @@ app.post('/add', async (req, res) => {
     res.status(500).send('Error inserting into HarperDB');
   }
 });
-
 // Example: Read all records
 app.get('/list', async (req, res) => {
   try {
